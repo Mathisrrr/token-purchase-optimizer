@@ -37,8 +37,6 @@ This document presents the theoretical background and the justification of the c
 - Input: number of tokens to buy and prices by color.  
 - Output: the **optimal purchase combination** minimizing total cost.  
 - Multiple algorithmic methods implemented for comparison.  
-- Modular and well-documented Python code.  
+- Modular and well-documented Python code.
+- 1V1 Mode for fun with friends
 
----
-
-## 🚀 How to Run
